@@ -1,0 +1,17 @@
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\bin\Debug\net6.0-windows\ListBoxVeriEkleme.exe
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\bin\Debug\net6.0-windows\ListBoxVeriEkleme.deps.json
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\bin\Debug\net6.0-windows\ListBoxVeriEkleme.runtimeconfig.json
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\bin\Debug\net6.0-windows\ListBoxVeriEkleme.dll
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\bin\Debug\net6.0-windows\ListBoxVeriEkleme.pdb
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\obj\Debug\net6.0-windows\ListBoxVeriEkleme.csproj.AssemblyReference.cache
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\obj\Debug\net6.0-windows\ListBoxVeriEkleme.Form1.resources
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\obj\Debug\net6.0-windows\ListBoxVeriEkleme.csproj.GenerateResource.cache
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\obj\Debug\net6.0-windows\ListBoxVeriEkleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\obj\Debug\net6.0-windows\ListBoxVeriEkleme.AssemblyInfoInputs.cache
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\obj\Debug\net6.0-windows\ListBoxVeriEkleme.AssemblyInfo.cs
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\obj\Debug\net6.0-windows\ListBoxVeriEkleme.csproj.CoreCompileInputs.cache
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\obj\Debug\net6.0-windows\ListBoxVeriEkleme.dll
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\obj\Debug\net6.0-windows\refint\ListBoxVeriEkleme.dll
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\obj\Debug\net6.0-windows\ListBoxVeriEkleme.pdb
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\obj\Debug\net6.0-windows\ListBoxVeriEkleme.genruntimeconfig.cache
+C:\Users\kazan\source\repos\ListBoxVeriEkleme\ListBoxVeriEkleme\obj\Debug\net6.0-windows\ref\ListBoxVeriEkleme.dll
